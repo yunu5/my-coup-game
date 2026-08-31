@@ -355,4 +355,4 @@ export default class Coup extends Component {
             </div>
         )
     }
-}
+}}
